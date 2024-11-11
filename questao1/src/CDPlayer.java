@@ -1,0 +1,3 @@
+interface CDPlayer {
+    void playCD();
+}
