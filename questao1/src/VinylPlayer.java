@@ -1,0 +1,3 @@
+interface VinylPlayer {
+    void playVinyl();
+}
